@@ -16,7 +16,7 @@ A simple Django based API that can be used to create cooking recipes. A user can
 
 2. Docker compose startup:
 ```bash
- docker compose up --build
+ docker compose -f docker-compose.yaml up --build
 ```
 ## Technology
 <div align="center">
